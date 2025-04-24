@@ -1,221 +1,136 @@
-<!-- GP-DEPI Styled GitHub README -->
-<div style="font-family:'Segoe UI', sans-serif; background-color:#DED5F2; padding:20px; border-radius:16px; text-align:center;">
+<!-- GP-DEPI Styled GitHub README (Centered Layout) -->
+<div style="font-family:'Segoe UI', sans-serif; padding:20px; border-radius:20px; max-width:900px; margin:auto; text-align:center;">
 
-<!-- Header -->
-<table style="width:100%; border:2px solid #7E55D9; margin-bottom:20px; border-radius:16px; overflow:hidden;">
-  <tr>
-    <td style="padding:20px; background-color:#7E55D9; color:white;">
-      <h1 style="margin:0;">🚆 GP-DEPI Railway Delay & Profit Optimization Project</h1>
-      <p style="font-size:18px; color:#DED5F2;"><em>A graduation project focused on delay reduction and maximizing profit</em></p>
-    </td>
-  </tr>
-</table>
+  <!-- Header -->
+  <div style="margin-bottom:20px; padding:30px; border-radius:20px; box-shadow:0 0 10px rgba(0,0,0,0.1);">
+    <h1>🚆 GP-DEPI Railway Delay & Profit Optimization Project</h1>
+    <p style="font-size:18px;"><em>A graduation project focused on delay reduction and maximizing profit</em></p>
+  </div>
 
-<!-- Team Members -->
-<table style="width:100%; border:2px solid #8469BF; margin-bottom:20px; border-radius:16px; overflow:hidden;">
-  <tr>
-    <td style="padding:20px;">
-      <h2 style="color:#7E55D9;">👥 Team Members</h2>
-      <ul style="list-style:none; padding:0;">
-        <li><b>Basmala</b></li>
-        <li><b>Manar</b></li>
-        <li><b>Omar</b></li>
-        <li><b>Sarah</b></li>
-        <li><b>Mohamed</b></li>
-        <li><b>Adham</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+  <!-- Team Members -->
+  <div style="margin-bottom:20px; padding:20px; border-radius:20px; box-shadow:0 0 10px rgba(0,0,0,0.1);">
+    <h2>👥 Team Members</h2>
+    <p><b>Basmala</b> · <b>Manar</b> · <b>Omar</b> · <b>Sarah</b> · <b>Mohamed</b> · <b>Adham</b></p>
+  </div>
 
-<!-- Goal -->
-<table style="width:100%; border:2px solid #9B8ABF; margin-bottom:20px; border-radius:16px; overflow:hidden;">
-  <tr>
-    <td style="padding:20px;">
-      <h2 style="color:#7E55D9;">🎯 Project Goal</h2>
-      <p>To identify key factors causing journey delays in railway transportation and to explore how reducing delay time can:</p>
-      <ul style="text-align:left; display:inline-block;">
-        <li>Increase ticket sales</li>
-        <li>Enhance customer satisfaction</li>
-        <li>Improve operational efficiency</li>
-        <li>Boost profitability through forecasting and simulation</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+  <!-- Project Goal -->
+  <div style="margin-bottom:20px; padding:20px; border-radius:20px; box-shadow:0 0 10px rgba(0,0,0,0.1);">
+    <h2>🎯 Project Goal</h2>
+    <p>To identify key factors causing journey delays in railway transportation and explore how reducing delay time can:</p>
+    <ul style="display:inline-block; text-align:left;">
+      <li>Increase ticket sales</li>
+      <li>Enhance customer satisfaction</li>
+      <li>Improve operational efficiency</li>
+      <li>Boost profitability through forecasting and simulation</li>
+    </ul>
+  </div>
 
-<!-- Pipeline -->
-<table style="width:100%; border:2px solid #8771D9; margin-bottom:20px; border-radius:16px; overflow:hidden;">
-  <tr>
-    <td style="padding:20px;">
-      <h2 style="color:#7E55D9;">🚀 Project Pipeline</h2>
-      <ol style="text-align:left; display:inline-block;">
-        <li><b>Data Cleaning & Preprocessing</b>  
-          <ul><li>Removed nulls, fixed inconsistent time formats</li><li>Merged arrival times with date to build usable datetime columns</li></ul>
-        </li>
-        <li><b>Data Modeling (Power BI)</b>  
-          <p>We designed a well-structured data model to build relationships between fact and dimension tables and enable insightful dashboards.</p>
-          <img src="Final/DM.PNG" alt="Power BI Data Model" width="100%">
-        </li>
-        <li><b>Exploratory Data Analysis (EDA)</b>  
-          <ul>
-            <li>Most delayed stations, times, and ticket types</li>
-            <li>Calculated % of delayed vs on-time journeys</li>
-            <li>Identified rush hours and top refund-request triggers</li>
-          </ul>
-        </li>
-        <li><b>KPI Definition</b>  
-          <ul>
-            <li>Average Delay Time</li>
-            <li>Ticket Sales by Journey Date</li>
-            <li>Delay to Refund Ratio</li>
-            <li>% of delayed trips per week</li>
-          </ul>
-        </li>
-        <li><b>What-If Analysis (Tableau)</b>  
-          <blockquote>Simulated the impact of reducing delay by X% → Predicted boost in ticket sales and revenue</blockquote>
-        </li>
-        <li><b>Forecasting & Demand Prediction (Python)</b>  
-          <ul>
-            <li>Built ARIMA & Random Forest models</li>
-            <li>Predicted daily ticket sales for the next month</li>
-            <li>Helped in demand estimation & resource allocation</li>
-          </ul>
-        </li>
-      </ol>
-    </td>
-  </tr>
-</table>
+  <!-- Pipeline -->
+  <div style="margin-bottom:20px; padding:20px; border-radius:20px; box-shadow:0 0 10px rgba(0,0,0,0.1); text-align:center;">
+    <h2>🚀 Project Pipeline</h2>
+    <ol style="text-align:left; display:inline-block; max-width:700px;">
+      <li><b>Data Cleaning & Preprocessing</b>
+        <ul><li>Removed nulls, fixed inconsistent time formats</li><li>Merged arrival times with date to build usable datetime columns</li></ul>
+      </li>
+      <li><b>Data Modeling (Power BI)</b>
+        <p>Structured data model with relationships to build insights.</p>
+        <img src="Final/DM.PNG" alt="Power BI Data Model" style="width:100%; border-radius:10px;">
+      </li>
+      <li><b>Exploratory Data Analysis (EDA)</b>
+        <ul>
+          <li>Most delayed stations, times, and ticket types</li>
+          <li>Calculated % of delayed vs on-time journeys</li>
+          <li>Identified rush hours and refund triggers</li>
+        </ul>
+      </li>
+      <li><b>KPI Definition</b>
+        <ul>
+          <li>Average Delay Time</li>
+          <li>Ticket Sales by Journey Date</li>
+          <li>Delay to Refund Ratio</li>
+          <li>% of delayed trips per week</li>
+        </ul>
+      </li>
+      <li><b>What-If Analysis (Tableau)</b>
+        <blockquote>Simulated the impact of reducing delay by X% → Predicted boost in ticket sales and revenue</blockquote>
+      </li>
+      <li><b>Forecasting & Demand Prediction (Python)</b>
+        <ul>
+          <li>ARIMA & Random Forest models</li>
+          <li>Predicted daily ticket sales for the next month</li>
+          <li>Supported resource allocation decisions</li>
+        </ul>
+      </li>
+    </ol>
+  </div>
 
-<!-- Stakeholder Analysis -->
-<table style="width:100%; border:2px solid #7E55D9; margin-bottom:20px; border-radius:16px; overflow:hidden;">
-  <tr>
-    <td style="padding:20px;">
-      <h2 style="color:#7E55D9;">🔍 Stakeholder Analysis</h2>
-      <table style="width:100%; border-collapse:collapse;">
-        <tr style="background-color:#8771D9; color:white;">
-          <th style="padding:8px; border:1px solid white;">Stakeholder</th>
-          <th style="padding:8px; border:1px solid white;">Role</th>
-          <th style="padding:8px; border:1px solid white;">Importance</th>
+  <!-- Stakeholder Analysis -->
+  <div style="margin-bottom:20px; padding:20px; border-radius:20px; box-shadow:0 0 10px rgba(0,0,0,0.1);">
+    <h2>🔍 Stakeholder Analysis</h2>
+    <table style="margin:auto; border-collapse:collapse;">
+      <thead>
+        <tr style="background:#f0f0f0;">
+          <th style="padding:10px;">Stakeholder</th>
+          <th style="padding:10px;">Role</th>
+          <th style="padding:10px;">Importance</th>
         </tr>
-        <tr style="background-color:#E6DDF1;">
-          <td>Railway Operators</td><td>Improve scheduling & delays</td><td>High</td>
-        </tr>
-        <tr style="background-color:#DED5F2;">
-          <td>Passengers</td><td>Understand delay trends</td><td>High</td>
-        </tr>
-        <tr style="background-color:#E6DDF1;">
-          <td>Business Analysts</td><td>Decision-making support</td><td>Medium</td>
-        </tr>
-        <tr style="background-color:#DED5F2;">
-          <td>Customer Service Teams</td><td>Handle complaints & refund requests</td><td>Medium</td>
-        </tr>
-        <tr style="background-color:#E6DDF1;">
-          <td>Financial Teams</td><td>Assess impact of delays on revenue</td><td>Medium</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+      </thead>
+      <tbody>
+        <tr><td>Railway Operators</td><td>Improve scheduling & delays</td><td>High</td></tr>
+        <tr><td>Passengers</td><td>Understand delay trends</td><td>High</td></tr>
+        <tr><td>Business Analysts</td><td>Decision-making support</td><td>Medium</td></tr>
+        <tr><td>Customer Service</td><td>Handle complaints & refund requests</td><td>Medium</td></tr>
+        <tr><td>Finance Teams</td><td>Revenue impact analysis</td><td>Medium</td></tr>
+      </tbody>
+    </table>
+  </div>
 
-<!-- Dashboards -->
-<table style="width:100%; border:2px solid #8469BF; margin-bottom:20px; border-radius:16px; overflow:hidden;">
-  <tr>
-    <td style="padding:20px;">
-      <h2 style="color:#7E55D9;">📊 Tableau Dashboards</h2>
-      <ul style="text-align:left; display:inline-block;">
-        <li><b>Operations Dashboard</b> – Delay patterns, reasons, station performance  
-          <br><img src="Final/Operation%20Dash.png" width="100%">
-        </li>
-        <li><b>Executive Dashboard</b> – KPIs, revenue impact, What-If simulations  
-          <br><img src="Final/Managers%20Dash.png" width="100%">
-        </li>
-        <li><b>Customer Service Dashboard</b> – Refunds, delay complaints, passenger experience  
-          <br><img src="Final/Customer%20Service%20Dash.png" width="100%">
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+  <!-- Dashboards -->
+  <div style="margin-bottom:20px; padding:20px; border-radius:20px; box-shadow:0 0 10px rgba(0,0,0,0.1);">
+    <h2>📊 Tableau Dashboards</h2>
+    <div>
+      <p><b>Operations Dashboard</b></p>
+      <img src="Final/Operation%20Dash.png" style="width:100%; border-radius:10px;"><br><br>
+      <p><b>Executive Dashboard</b></p>
+      <img src="Final/Managers%20Dash.png" style="width:100%; border-radius:10px;"><br><br>
+      <p><b>Customer Service Dashboard</b></p>
+      <img src="Final/Customer%20Service%20Dash.png" style="width:100%; border-radius:10px;">
+    </div>
+  </div>
 
-<!-- Forecasting -->
-<table style="width:100%; border:2px solid #9B8ABF; margin-bottom:20px; border-radius:16px; overflow:hidden;">
-  <tr>
-    <td style="padding:20px;">
-      <h2 style="color:#7E55D9;">📈 Ticket Demand Prediction (Next Month)</h2>
-      <p>Using historical journey data, a Random Forest model was trained to forecast daily ride counts. The company can now plan staff, trains, and pricing <b>proactively</b>.</p>
-    </td>
-  </tr>
-</table>
+  <!-- Forecasting -->
+  <div style="margin-bottom:20px; padding:20px; border-radius:20px; box-shadow:0 0 10px rgba(0,0,0,0.1);">
+    <h2>📈 Ticket Demand Prediction (Next Month)</h2>
+    <p>Random Forest forecasting helps staff plan proactively based on estimated daily ride counts.</p>
+  </div>
 
-<!-- Gantt Chart -->
-<table style="width:100%; border:2px solid #8771D9; margin-bottom:20px; border-radius:16px; overflow:hidden;">
-  <tr>
-    <td style="padding:20px;">
-      <h2 style="color:#7E55D9;">📅 Gantt Chart & Task Assignment</h2>
-      <img src="Final/Gannt_Chart.PNG" width="100%">
-      <table style="width:100%; border-collapse:collapse; margin-top:10px;">
-        <tr style="background-color:#8771D9; color:white;">
-          <th style="padding:8px;">Task</th>
-          <th>Assigned To</th>
-          <th>Start Date</th>
-          <th>End Date</th>
-          <th>Status</th>
+  <!-- Gantt Chart -->
+  <div style="margin-bottom:20px; padding:20px; border-radius:20px; box-shadow:0 0 10px rgba(0,0,0,0.1);">
+    <h2>📅 Gantt Chart & Task Assignment</h2>
+    <img src="Final/Gannt_Chart.PNG" style="width:100%; border-radius:10px;">
+    <table style="margin:20px auto; border-collapse:collapse;">
+      <thead>
+        <tr style="background:#f0f0f0;">
+          <th style="padding:10px;">Task</th>
+          <th style="padding:10px;">Assigned To</th>
+          <th style="padding:10px;">Start</th>
+          <th style="padding:10px;">End</th>
+          <th style="padding:10px;">Status</th>
         </tr>
-        <tr style="background-color:#DED5F2;">
-          <td>Data Cleaning</td><td>Manar</td><td>Feb 10</td><td>Feb 17</td><td>✅ Done</td>
-        </tr>
-        <tr style="background-color:#E6DDF1;">
-          <td>Power BI Modeling</td><td>Sarah</td><td>Feb 20</td><td>Feb 23</td><td>✅ Done</td>
-        </tr>
-        <tr style="background-color:#DED5F2;">
-          <td>SQL Modeling</td><td>Adham</td><td>Mar 1</td><td>Mar 8</td><td>✅ Done</td>
-        </tr>
-        <tr style="background-color:#E6DDF1;">
-          <td>EDA & Analysis</td><td>Basmala</td><td>Mar 10</td><td>Mar 17</td><td>✅ Done</td>
-        </tr>
-        <tr style="background-color:#DED5F2;">
-          <td>Forecasting Models</td><td>Mohamed</td><td>Apr 10</td><td>Apr 17</td><td>✅ Done</td>
-        </tr>
-        <tr style="background-color:#E6DDF1;">
-          <td>Tableau Dashboards</td><td>Omar & Sarah</td><td>Apr 20</td><td>Apr 24</td><td>✅ Done</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+      </thead>
+      <tbody>
+        <tr><td>Data Cleaning</td><td>Manar</td><td>Feb 10</td><td>Feb 17</td><td>✅</td></tr>
+        <tr><td>Power BI Modeling</td><td>Sarah</td><td>Feb 20</td><td>Feb 23</td><td>✅</td></tr>
+        <tr><td>SQL Modeling</td><td>Adham</td><td>Mar 1</td><td>Mar 8</td><td>✅</td></tr>
+        <tr><td>EDA</td><td>Basmala</td><td>Mar 10</td><td>Mar 17</td><td>✅</td></tr>
+        <tr><td>Forecasting</td><td>Mohamed</td><td>Apr 10</td><td>Apr 17</td><td>✅</td></tr>
+        <tr><td>Tableau Dashboards</td><td>Omar & Sarah</td><td>Apr 20</td><td>Apr 24</td><td>✅</td></tr>
+      </tbody>
+    </table>
+  </div>
 
-<!-- Tools -->
-<table style="width:100%; border:2px solid #7E55D9; margin-bottom:20px; border-radius:16px; overflow:hidden;">
-  <tr>
-    <td style="padding:20px;">
-      <h2 style="color:#7E55D9;">🧠 Tools & Technologies</h2>
-      <ul style="text-align:left; display:inline-block;">
-        <li><b>Python</b> – pandas, seaborn, matplotlib, ARIMA, Random Forest</li>
-        <li><b>SQL</b> – used to model tables & filter clean data</li>
-        <li><b>Tableau</b> – dashboards, simulation, visuals</li>
-        <li><b>Power BI</b> – build data model</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<!-- Conclusion -->
-<table style="width:100%; border:2px solid #8469BF; border-radius:16px; overflow:hidden;">
-  <tr>
-    <td style="padding:20px;">
-      <h2 style="color:#7E55D9;">🏁 Conclusion</h2>
-      <p>
-        Based on the insights obtained from data analysis, we hypothesized that reducing train delays could positively influence ticket sales and customer satisfaction. A what-if analysis was conducted to explore potential improvements in performance if delays were reduced by a certain percentage.
-        <br><br>
-        <b>Conclusion:</b> For every <b>1% decrease</b> in average delay time, ticket sales could increase by approximately <b>2%</b>.
-        <br><br>
-        This is an exploratory assumption based on patterns in the data. Further validation through statistical testing or real-world experiments is needed to confirm this relationship.
-        <br><br>
-        Forecasting demand gave the company forward visibility to make smarter decisions.
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
+  <!-- Tools -->
+  <div style="margin-bottom:20px; padding:20px; border-radius:20px; box-shadow:0 0 10px rgba(0,0,0,0.1);">
+    <h2>🧠 Tools & Technologies</h2>
+    <p><b>Python</b> · <b>SQL</b> · <b>Tableau</b> · <b>Power BI</b></p>
+    <p style="font-size:
