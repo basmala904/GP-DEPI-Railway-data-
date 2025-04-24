@@ -9,7 +9,7 @@ A graduation project by the GP-DEPI team focused on minimizing railway journey d
 - **Basmala** 
 - **Manar**   
 - **Omar**    
-- **Sara**    
+- **Sarah**    
 - **Mohamed** 
 - **Adham**   
 ---
@@ -109,6 +109,14 @@ The company can now plan staff, trains, and ticket pricing **proactively**.
 ## 🏁 Conclusion
 
 - Based on the insights obtained from data analysis, we hypothesized that reducing train delays could positively influence ticket sales and customer satisfaction. A what-if analysis was conducted to explore potential improvements in performance if delays were reduced by a certain percentage.
+
+From this scenario, we estimated that:
+
+For every 1% decrease in average delay time, ticket sales could increase by approximately 2%.
+
+This is an exploratory assumption based on patterns in the data. Further validation through statistical testing or real-world experiments is needed to confirm this relationship.
+
+
 - Forecasting demand gave the company forward visibility to make smarter decisions.
 
 ---
