@@ -177,7 +177,7 @@
     <tr>
       <td style="padding:25px;">
         <h2 style="text-align:center; color:#3498db;">📅 Gantt Chart & Task Assignment</h2>
-        <img src="Final/Gannt_Chart.PNG" style="width:100%; border-radius:15px; margin-bottom:20px; box-shadow:0 3px 15px rgba(0,0,0,0.1);">
+        <img src="Final/Insights & Recommendation/Gannt Chart.png" style="width:100%; border-radius:15px; margin-bottom:20px; box-shadow:0 3px 15px rgba(0,0,0,0.1);">
         <div style="overflow-x:auto;">
           <table style="width:100%; border-collapse:separate; border-spacing:0; margin:auto;">
             <thead>
