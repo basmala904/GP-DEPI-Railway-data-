@@ -65,6 +65,7 @@ We built Three dashboards tailored for different stakeholders:
 
 - **Operations Dashboard**  
   Focuses on delay patterns, reasons, and station performance.
+  ![Operations Dashboard](Final/Operation%20Dash.png)
 
 - **Executive Dashboard**  
   Highlights revenue impact, KPIs, and What-If simulations to support strategic decisions.
