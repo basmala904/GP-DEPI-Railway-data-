@@ -67,11 +67,6 @@ We built Three dashboards tailored for different stakeholders:
   Visualizes refund requests, delay complaints, most affected routes, and overall passenger experience to help improve service quality.
 
 ---
-### 📸 Dashboard Snapshots
-
-| Operations Dashboard | Executive Dashboard | Customer Service Dashboard |
-|----------------------|---------------------|-----------------------------|
-| ![Ops](Final/Operation Dash.png) | ![Exec]() | ![Customer](link-to-your-image3) |
 
 ## 📈 Ticket Demand Prediction (Next Month)
 
@@ -86,12 +81,13 @@ The company can now plan staff, trains, and ticket pricing **proactively**.
 
 | Task                    | Assigned To | Start Date | End Date   | Status     |
 |-------------------------|-------------|------------|------------|------------|
-| Data Cleaning           | Omar        | Mar 1      | Mar 4      | ✅ Done     |
-| EDA & Analysis          | Basmala     | Mar 5      | Mar 9      | ✅ Done     |
-| SQL Modeling            | Nour        | Mar 10     | Mar 13     | ✅ Done     |
-| Forecasting Models      | Basmala     | Mar 14     | Mar 18     | ✅ Done     |
-| Tableau Dashboards      | Nour        | Mar 19     | Apr 1      | ✅ Done     |
-| Final Reporting         | Whole Team  | Apr 2      | Apr 5      | ✅ Done     |
+| Data Cleaning           | Manar       | Feb 10     | Feb 17     | ✅ Done     |
+| Power BI  Modeling      | Sara        | Feb 20     | Feb 23     | ✅ Done     |
+| SQL Modeling            | Adham       | Mar 1      | Mar 8      | ✅ Done     |
+| EDA & Analysis          | Basmala     | Mar 10     | Mar 17     | ✅ Done     |
+| Forecasting Models      | Mohamed     | Apr 10     | Apr 17     | ✅ Done     |
+| Tableau Dashboards      | Omar & Sara | Apr 20     | Apr 24     | ✅ Done     |
+| Final Presentation      | Whole Team  | Apr 30     | Mai 5      | ✅ Done     |
 
 ---
 
@@ -110,7 +106,3 @@ Our project proved that a **1% reduction in average delay** can increase ticket 
 Forecasting demand gave the company forward visibility to make smarter decisions.
 
 ---
-
-## 🔗 Contact
-
-For inquiries or feedback, reach out to **Basmala** via [LinkedIn](https://www.linkedin.com).
