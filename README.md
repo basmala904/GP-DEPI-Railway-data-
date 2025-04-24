@@ -58,6 +58,15 @@ We designed a well-structured data model using **Power BI** to support the data 
    - Helped in demand estimation & resource allocation
 
 ---
+## 🔍 Stakeholder Analysis
+| Stakeholder           | Role in Project                        | Importance |
+|-----------------------|----------------------------------------|------------|
+| Railway Operators     | Improve scheduling & delays            | High       |
+| Passengers            | Understand delay trends                | High       |
+| Business Analysts     | Decision-making support                | Medium     |
+| Customer Service Teams| Handle complaints & refund requests    | Medium     |
+| Financial Teams       | Assess impact of delays on revenue     | Medium     |
+---
 
 ## 📊 Tableau Dashboards
 
