@@ -88,11 +88,11 @@ The company can now plan staff, trains, and ticket pricing **proactively**.
 | Task                    | Assigned To | Start Date | End Date   | Status     |
 |-------------------------|-------------|------------|------------|------------|
 | Data Cleaning           | Manar       | Feb 10     | Feb 17     | ✅ Done     |
-| Power BI  Modeling      | Sara        | Feb 20     | Feb 23     | ✅ Done     |
+| Power BI  Modeling      | Sarah       | Feb 20     | Feb 23     | ✅ Done     |
 | SQL Modeling            | Adham       | Mar 1      | Mar 8      | ✅ Done     |
 | EDA & Analysis          | Basmala     | Mar 10     | Mar 17     | ✅ Done     |
 | Forecasting Models      | Mohamed     | Apr 10     | Apr 17     | ✅ Done     |
-| Tableau Dashboards      | Omar & Sara | Apr 20     | Apr 24     | ✅ Done     |
+| Tableau Dashboards      | Omar & Sarah| Apr 20     | Apr 24     | ✅ Done     |
 
 ---
 
@@ -102,13 +102,13 @@ The company can now plan staff, trains, and ticket pricing **proactively**.
 - **Python**: pandas, seaborn, matplotlib, ARIMA, Random Forest  
 - **SQL**: used to model tables & filter clean data  
 - **Tableau**: dashboards, simulation, visuals  
-- **Excel**: early preprocessing, time formatting
+- **Power BI**: build data model
 
 ---
 
 ## 🏁 Conclusion
 
-Our project proved that a **1% reduction in average delay** can increase ticket sales by an estimated **1.8–2.3%**, improving both revenue and satisfaction.  
-Forecasting demand gave the company forward visibility to make smarter decisions.
+- Based on the insights obtained from data analysis, we hypothesized that reducing train delays could positively influence ticket sales and customer satisfaction. A what-if analysis was conducted to explore potential improvements in performance if delays were reduced by a certain percentage.
+- Forecasting demand gave the company forward visibility to make smarter decisions.
 
 ---
