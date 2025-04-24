@@ -35,7 +35,7 @@ To identify key factors causing journey delays in railway transportation and to 
 
 We designed a well-structured data model using **Power BI** to support the data analysis and dashboard creation phases. This model helped us build relationships between fact and dimension tables, and prepare clean data views for advanced insights.
 
-![Power BI Data Model]()
+![Power BI Data Model](Final/DM.PNG)
 
 3. **Exploratory Data Analysis (EDA)**  
    - Most delayed stations, times, and ticket types  
