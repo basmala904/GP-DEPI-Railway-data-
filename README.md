@@ -151,7 +151,7 @@
           </div>
           <div>
             <h3 style="margin-bottom:10px;">Executive Dashboard</h3>
-            <img src="Final/Managers%20Dash.png" style="width:100%; border-radius:15px; box-shadow:0 3px 15px rgba(0,0,0,0.1);">
+            <img src="Final/Dashboards/Managers Dash.png" style="width:100%; border-radius:15px; box-shadow:0 3px 15px rgba(0,0,0,0.1);">
           </div>
           <div>
             <h3 style="margin-bottom:10px;">Customer Service Dashboard</h3>
