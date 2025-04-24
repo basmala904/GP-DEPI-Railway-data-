@@ -6,12 +6,12 @@ A graduation project by the GP-DEPI team focused on minimizing railway journey d
 
 ## 👥 Team Members
 
-- **Basmala** - 
-- **Manar**   – 
-- **Omar**    –
-- **Sara**    –
-- **Mohamed** –
-- **Adham**   –
+- **Basmala** 
+- **Manar**   
+- **Omar**    
+- **Sara**    
+- **Mohamed** 
+- **Adham**   
 ---
 
 ## 🎯 Project Goal
@@ -71,7 +71,7 @@ We built Three dashboards tailored for different stakeholders:
 
 | Operations Dashboard | Executive Dashboard | Customer Service Dashboard |
 |----------------------|---------------------|-----------------------------|
-| ![Ops]() | ![Exec](link-to-your-image2) | ![Customer](link-to-your-image3) |
+| ![Ops](Final/Operation Dash.png) | ![Exec]() | ![Customer](link-to-your-image3) |
 
 ## 📈 Ticket Demand Prediction (Next Month)
 
