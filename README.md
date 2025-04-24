@@ -77,7 +77,7 @@ The company can now plan staff, trains, and ticket pricing **proactively**.
 
 ## 📅 Gantt Chart & Task Assignment
 
-![Gantt Chart](https://your-gantt-chart-link.com)
+![Gantt Chart](Final/Gannt_Chart.PNG)
 
 | Task                    | Assigned To | Start Date | End Date   | Status     |
 |-------------------------|-------------|------------|------------|------------|
