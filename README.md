@@ -1,134 +1,92 @@
-# GP-DEPI Railway Delay & Profit Optimization Project
+<!-- GP-DEPI Custom README Design -->
+<div style="background-color:#DED5F2;padding:30px;border-radius:10px;font-family:'Segoe UI',sans-serif;color:#2C2C2C;">
 
-A graduation project by the GP-DEPI team focused on minimizing railway journey delays while maximizing company **profit** and **customer satisfaction**.
+<h1 align="center" style="color:#7E55D9;">🚆 GP-DEPI Railway Delay & Profit Optimization</h1>
+<p align="center" style="font-size:18px;color:#8469BF;"><em>Graduation Project | Team-Based Analytical Approach</em></p>
 
----
+<hr style="border: 1px solid #8771D9;"/>
 
-## 👥 Team Members
+<h2 style="color:#7E55D9;">👥 Team Members</h2>
+<ul>
+  <li><b>Basmala</b></li>
+  <li><b>Manar</b></li>
+  <li><b>Omar</b></li>
+  <li><b>Sarah</b></li>
+  <li><b>Mohamed</b></li>
+  <li><b>Adham</b></li>
+</ul>
 
-- **Basmala** 
-- **Manar**   
-- **Omar**    
-- **Sarah**    
-- **Mohamed** 
-- **Adham**   
----
+<h2 style="color:#7E55D9;">🎯 Project Goal</h2>
+<p>To minimize railway journey delays while maximizing profit and customer satisfaction.</p>
 
-## 🎯 Project Goal
+<ul>
+  <li>✅ Increase ticket sales</li>
+  <li>✅ Enhance customer experience</li>
+  <li>✅ Improve operational efficiency</li>
+  <li>✅ Boost profitability through forecasting</li>
+</ul>
 
-To identify key factors causing journey delays in railway transportation and to explore how reducing delay time can:
+<h2 style="color:#7E55D9;">📊 Project Pipeline</h2>
+<ol>
+  <li><b>Data Cleaning & Preprocessing</b> — Fixed time issues, merged dates</li>
+  <li><b>Data Modeling (Power BI)</b> — Structured schema to support dashboards</li>
+  <li><b>EDA</b> — Delay patterns, rush hours, refund trends</li>
+  <li><b>KPI Setup</b> — Delay %, refunds, average delay time</li>
+  <li><b>What-If Analysis</b> — Tableau simulation for strategic impact</li>
+  <li><b>Forecasting</b> — ARIMA, Random Forest for demand prediction</li>
+</ol>
 
-- Increase ticket sales  
-- Enhance customer satisfaction  
-- Improve operational efficiency  
-- Boost profitability through forecasting and simulation
+<h2 style="color:#7E55D9;">📈 Forecasting Impact</h2>
+<p>
+For every <b>1% reduction</b> in delay time, estimated <b>2% boost</b> in ticket sales.<br>
+(Exploratory — would need real-world validation.)
+</p>
 
----
+<h2 style="color:#7E55D9;">📅 Project Timeline</h2>
 
-## 🚀 Project Pipeline
+<table style="width:100%;border-collapse:collapse;">
+  <tr style="background-color:#8771D9;color:white;">
+    <th style="padding:8px;">Task</th>
+    <th>Assigned To</th>
+    <th>Start</th>
+    <th>End</th>
+    <th>Status</th>
+  </tr>
+  <tr style="background-color:#E6DDF1;">
+    <td>Data Cleaning</td><td>Manar</td><td>Feb 10</td><td>Feb 17</td><td>✅ Done</td>
+  </tr>
+  <tr style="background-color:#DED5F2;">
+    <td>Power BI Modeling</td><td>Sarah</td><td>Feb 20</td><td>Feb 23</td><td>✅ Done</td>
+  </tr>
+  <tr style="background-color:#E6DDF1;">
+    <td>SQL Modeling</td><td>Adham</td><td>Mar 1</td><td>Mar 8</td><td>✅ Done</td>
+  </tr>
+  <tr style="background-color:#DED5F2;">
+    <td>EDA</td><td>Basmala</td><td>Mar 10</td><td>Mar 17</td><td>✅ Done</td>
+  </tr>
+  <tr style="background-color:#E6DDF1;">
+    <td>Forecasting</td><td>Mohamed</td><td>Apr 10</td><td>Apr 17</td><td>✅ Done</td>
+  </tr>
+  <tr style="background-color:#DED5F2;">
+    <td>Dashboards</td><td>Omar & Sarah</td><td>Apr 20</td><td>Apr 24</td><td>✅ Done</td>
+  </tr>
+</table>
 
-1. **Data Cleaning & Preprocessing**  
-   - Removed nulls, fixed inconsistent time formats  
-   - Merged arrival times with date to build usable datetime columns
+<h2 style="color:#7E55D9;">📦 Tools & Tech</h2>
+<ul>
+  <li><b>Python</b> — pandas, ARIMA, Random Forest</li>
+  <li><b>SQL</b> — Data cleaning & modeling</li>
+  <li><b>Tableau</b> — Dashboards & What-if analysis</li>
+  <li><b>Power BI</b> — Data model & visuals</li>
+</ul>
 
-2. **🧩 Data Modeling**
+<h2 style="color:#7E55D9;">🌈 Color Palette</h2>
+<div style="display:flex;gap:10px;margin-top:10px;">
+  <div style="width:50px;height:30px;background:#7E55D9;border-radius:4px;" title="#7E55D9"></div>
+  <div style="width:50px;height:30px;background:#8469BF;border-radius:4px;" title="#8469BF"></div>
+  <div style="width:50px;height:30px;background:#9B8ABF;border-radius:4px;" title="#9B8ABF"></div>
+  <div style="width:50px;height:30px;background:#DED5F2;border-radius:4px;" title="#DED5F2"></div>
+  <div style="width:50px;height:30px;background:#8771D9;border-radius:4px;" title="#8771D9"></div>
+</div>
 
-We designed a well-structured data model using **Power BI** to support the data analysis and dashboard creation phases. This model helped us build relationships between fact and dimension tables, and prepare clean data views for advanced insights.
-
-![Power BI Data Model](Final/DM.PNG)
-
-3. **Exploratory Data Analysis (EDA)**  
-   - Most delayed stations, times, and ticket types  
-   - Calculated % of delayed vs on-time journeys  
-   - Identified rush hours and top refund-request triggers
-
-4. **KPI Definition**  
-   - Average Delay Time  
-   - Ticket Sales by Journey Date  
-   - Delay to Refund Ratio  
-   - % of delayed trips per week
-
-5. **What-If Analysis** *(Tableau)*  
-   > Simulated the impact of reducing delay by X%  
-   > → Predicted boost in ticket sales and revenue
-
-6. **Forecasting & Demand Prediction** *(Python)*  
-   - Built ARIMA & Random Forest models  
-   - Predicted daily ticket sales for the next month  
-   - Helped in demand estimation & resource allocation
-
----
-## 🔍 Stakeholder Analysis
-| Stakeholder           | Role in Project                        | Importance |
-|-----------------------|----------------------------------------|------------|
-| Railway Operators     | Improve scheduling & delays            | High       |
-| Passengers            | Understand delay trends                | High       |
-| Business Analysts     | Decision-making support                | Medium     |
-| Customer Service Teams| Handle complaints & refund requests    | Medium     |
-| Financial Teams       | Assess impact of delays on revenue     | Medium     |
----
-
-## 📊 Tableau Dashboards
-
-We built Three dashboards tailored for different stakeholders:
-
-- **Operations Dashboard**  
-  Focuses on delay patterns, reasons, and station performance.
-  ![Operations Dashboard](Final/Operation%20Dash.png)
-
-- **Executive Dashboard**  
-  Highlights revenue impact, KPIs, and What-If simulations to support strategic decisions.
-  ![Managers Dashboard](Final/Managers%20Dash.png)
-
--  **Customer Service Dashboard**  
-  Visualizes refund requests, delay complaints, most affected routes, and overall passenger experience to help improve service quality.
-![Customer Service Dashboard](Final/Customer%20Service%20Dash.png)
-
----
-
-## 📈 Ticket Demand Prediction (Next Month)
-
-Using historical journey data, a Random Forest model was trained to forecast daily ride counts for the upcoming month.  
-The company can now plan staff, trains, and ticket pricing **proactively**.
-
----
-
-## 📅 Gantt Chart & Task Assignment
-
-![Gantt Chart](Final/Gannt_Chart.PNG)
-
-| Task                    | Assigned To | Start Date | End Date   | Status     |
-|-------------------------|-------------|------------|------------|------------|
-| Data Cleaning           | Manar       | Feb 10     | Feb 17     | ✅ Done     |
-| Power BI  Modeling      | Sarah       | Feb 20     | Feb 23     | ✅ Done     |
-| SQL Modeling            | Adham       | Mar 1      | Mar 8      | ✅ Done     |
-| EDA & Analysis          | Basmala     | Mar 10     | Mar 17     | ✅ Done     |
-| Forecasting Models      | Mohamed     | Apr 10     | Apr 17     | ✅ Done     |
-| Tableau Dashboards      | Omar & Sarah| Apr 20     | Apr 24     | ✅ Done     |
-
----
-
-
-## 🧠 Tools & Technologies
-
-- **Python**: pandas, seaborn, matplotlib, ARIMA, Random Forest  
-- **SQL**: used to model tables & filter clean data  
-- **Tableau**: dashboards, simulation, visuals  
-- **Power BI**: build data model
-
----
-
-## 🏁 Conclusion
-
-- Based on the insights obtained from data analysis, we hypothesized that reducing train delays could positively influence ticket sales and customer satisfaction. A what-if analysis was conducted to explore potential improvements in performance if delays were reduced by a certain percentage.
-
-From this scenario, we estimated that:
-
-For every 1% decrease in average delay time, ticket sales could increase by approximately 2%.
-
-This is an exploratory assumption based on patterns in the data. Further validation through statistical testing or real-world experiments is needed to confirm this relationship.
-
-
-- Forecasting demand gave the company forward visibility to make smarter decisions.
-
----
+</div>
