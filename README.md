@@ -68,6 +68,7 @@ We built Three dashboards tailored for different stakeholders:
 
 - **Executive Dashboard**  
   Highlights revenue impact, KPIs, and What-If simulations to support strategic decisions.
+  ![Managers Dashboard](Final/Managers%20Dash.png)
 
 -  **Customer Service Dashboard**  
   Visualizes refund requests, delay complaints, most affected routes, and overall passenger experience to help improve service quality.
