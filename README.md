@@ -125,12 +125,12 @@
               <tr>
                 <td style="padding:12px 15px; border-bottom:1px solid #eee;">Customer Service</td>
                 <td style="padding:12px 15px; border-bottom:1px solid #eee;">Handle complaints & refund requests</td>
-                <td style="padding:12px 15px; border-bottom:1px solid #eee;">Medium</td>
+                <td style="padding:12px 15px; border-bottom:1px solid #eee;">High</td>
               </tr>
               <tr>
-                <td style="padding:12px 15px;">Finance Teams</td>
+                <td style="padding:12px 15px;">Managers</td>
                 <td style="padding:12px 15px;">Revenue impact analysis</td>
-                <td style="padding:12px 15px;">Medium</td>
+                <td style="padding:12px 15px;">High</td>
               </tr>
             </tbody>
           </table>
