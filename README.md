@@ -31,22 +31,28 @@ To identify key factors causing journey delays in railway transportation and to 
    - Removed nulls, fixed inconsistent time formats  
    - Merged arrival times with date to build usable datetime columns
 
-2. **Exploratory Data Analysis (EDA)**  
+2. **🧩 Data Modeling**
+
+We designed a well-structured data model using **Power BI** to support the data analysis and dashboard creation phases. This model helped us build relationships between fact and dimension tables, and prepare clean data views for advanced insights.
+
+![Power BI Data Model]()
+
+3. **Exploratory Data Analysis (EDA)**  
    - Most delayed stations, times, and ticket types  
    - Calculated % of delayed vs on-time journeys  
    - Identified rush hours and top refund-request triggers
 
-3. **KPI Definition**  
+4. **KPI Definition**  
    - Average Delay Time  
    - Ticket Sales by Journey Date  
    - Delay to Refund Ratio  
    - % of delayed trips per week
 
-4. **What-If Analysis** *(Tableau)*  
+5. **What-If Analysis** *(Tableau)*  
    > Simulated the impact of reducing delay by X%  
    > → Predicted boost in ticket sales and revenue
 
-5. **Forecasting & Demand Prediction** *(Python)*  
+6. **Forecasting & Demand Prediction** *(Python)*  
    - Built ARIMA & Random Forest models  
    - Predicted daily ticket sales for the next month  
    - Helped in demand estimation & resource allocation
@@ -87,9 +93,9 @@ The company can now plan staff, trains, and ticket pricing **proactively**.
 | EDA & Analysis          | Basmala     | Mar 10     | Mar 17     | ✅ Done     |
 | Forecasting Models      | Mohamed     | Apr 10     | Apr 17     | ✅ Done     |
 | Tableau Dashboards      | Omar & Sara | Apr 20     | Apr 24     | ✅ Done     |
-| Final Presentation      | Whole Team  | Apr 30     | Mai 5      | ✅ Done     |
 
 ---
+
 
 ## 🧠 Tools & Technologies
 
