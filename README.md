@@ -143,7 +143,7 @@
   <table style="width:100%; border-radius:25px; margin-bottom:25px; box-shadow:0 4px 20px rgba(0,0,0,0.08); background:white; margin-left:auto; margin-right:auto;">
     <tr>
       <td style="padding:25px;">
-        <h2 style="text-align:center; color:#3498db;">📊 Tableau Dashboards</h2>
+        <h2 style="text-align:center; color:#3498db;">📊 Tableau Dashboards: https://public.tableau.com/app/profile/basmala.mohsen/viz/GP_Dashboard/Chooseyourteam?publish=yes</h2>
         <div style="display:flex; flex-direction:column; gap:25px;">
           <div>
             <h3 style="margin-bottom:10px;">Operations Dashboard</h3>
