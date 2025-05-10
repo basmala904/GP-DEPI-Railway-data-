@@ -269,7 +269,8 @@
           <p style="color:#555; line-height:1.6;">
             Reducing train delays has a positive correlation with sales and satisfaction.<br>
             For each <b style="color:#e74c3c;">1% reduction</b> in average delay time, there's a potential <b style="color:#e74c3c;">2% increase</b> in ticket sales.<br><br>
-            These insights help railways forecast demand and optimize resource allocation effectively. 
+            These insights help railways forecast demand and optimize resource allocation effectively.>
+            Insights & Recommendations: https://www.canva.com/design/DAGllEV7IUM/QGNmF6THa23H5Vec4_orag/edit?utm_content=DAGllEV7IUM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton >
             presentation: https://www.canva.com/design/DAGmJLIRcao/f7ZKWoFtFs5p5ZdRAvGNgg/edit?utm_content=DAGmJLIRcao&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
           </p>
         </div>
