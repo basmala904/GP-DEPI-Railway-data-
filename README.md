@@ -271,13 +271,13 @@
           For each <b style="color:#e74c3c;">1% reduction</b> in average delay time, there's a potential <b style="color:#e74c3c;">2% increase</b> in ticket sales.<br><br>
           These insights help railways forecast demand and optimize resource allocation effectively.
         </p>
-         <div style="margin-top:20px; text-align:center;">
+        <div style="margin-top:25px; text-align:center;">
           <a href="https://www.canva.com/design/DAGllEV7IUM/QGNmF6THa23H5Vec4_orag/edit?utm_content=DAGllEV7IUM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" 
-             style="display:inline-block; background:#3498db; color:white; padding:10px 15px; border-radius:8px; text-decoration:none; margin:5px; font-weight:bold;">
+             style="display: inline-block; background: #3498db; color: white; padding: 10px 20px; border-radius: 8px; text-decoration: none; margin: 10px 5px; font-weight: bold; transition: all 0.3s ease;">
             Insights & Recommendations
           </a>
-          <a href="https://www.canva.com/design/DAGmJLIRcao/f7ZKWoFtFs5p5ZdRAvGNgg/edit?utm_content=DAGmJLIRcao&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" 
-             style="display:inline-block; background:#2ecc71; color:white; padding:10px 15px; border-radius:8px; text-decoration:none; margin:5px; font-weight:bold;">
+           <a href="https://www.canva.com/design/DAGmJLIRcao/f7ZKWoFtFs5p5ZdRAvGNgg/edit?utm_content=DAGmJLIRcao&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" 
+             style="display: inline-block; background: #2ecc71; color: white; padding: 10px 20px; border-radius: 8px; text-decoration: none; margin: 10px 5px; font-weight: bold; transition: all 0.3s ease;">
             Presentation
           </a>
         </div>
@@ -285,5 +285,4 @@
     </td>
   </tr>
 </table>
-
 </div>
