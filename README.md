@@ -260,22 +260,32 @@
     </tr>
   </table>
 
-  <!-- Conclusion -->
-  <table style="width:100%; border-radius:25px; box-shadow:0 4px 20px rgba(0,0,0,0.08); background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); margin-left:auto; margin-right:auto;">
-    <tr>
-      <td style="padding:30px; text-align:center;">
-        <h2 style="color:#2c3e50;">🏁 Conclusion</h2>
-        <div style="max-width:700px; margin:auto; background:white; padding:25px; border-radius:20px; box-shadow:0 3px 15px rgba(0,0,0,0.05);">
-          <p style="color:#555; line-height:1.6;">
-            Reducing train delays has a positive correlation with sales and satisfaction.<br>
-            For each <b style="color:#e74c3c;">1% reduction</b> in average delay time, there's a potential <b style="color:#e74c3c;">2% increase</b> in ticket sales.<br><br>
-            These insights help railways forecast demand and optimize resource allocation effectively.>
-            Insights & Recommendations: https://www.canva.com/design/DAGllEV7IUM/QGNmF6THa23H5Vec4_orag/edit?utm_content=DAGllEV7IUM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton >
-            presentation: https://www.canva.com/design/DAGmJLIRcao/f7ZKWoFtFs5p5ZdRAvGNgg/edit?utm_content=DAGmJLIRcao&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-          </p>
+<!-- Conclusion -->
+<table style="width:100%; border-radius:25px; box-shadow:0 4px 20px rgba(0,0,0,0.08); background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); margin-left:auto; margin-right:auto;">
+  <tr>
+    <td style="padding:30px; text-align:center;">
+      <h2 style="color:#2c3e50;">🏁 Conclusion</h2>
+      <div style="max-width:700px; margin:auto; background:white; padding:25px; border-radius:20px; box-shadow:0 3px 15px rgba(0,0,0,0.05);">
+        <p style="color:#555; line-height:1.6;">
+          Reducing train delays has a positive correlation with sales and satisfaction.<br>
+          For each <b style="color:#e74c3c;">1% reduction</b> in average delay time, there's a potential <b style="color:#e74c3c;">2% increase</b> in ticket sales.<br><br>
+          These insights help railways forecast demand and optimize resource allocation effectively.
+        </p>
+        
+        <div style="margin-top:20px; text-align:center;">
+          <a href="https://www.canva.com/design/DAGllEV7IUM/QGNmF6THa23H5Vec4_orag/edit?utm_content=DAGllEV7IUM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" 
+             style="display:inline-block; background:#3498db; color:white; padding:10px 15px; border-radius:8px; text-decoration:none; margin:5px; font-weight:bold;">
+            Insights & Recommendations
+          </a>
+          
+          <a href="https://www.canva.com/design/DAGmJLIRcao/f7ZKWoFtFs5p5ZdRAvGNgg/edit?utm_content=DAGmJLIRcao&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" 
+             style="display:inline-block; background:#2ecc71; color:white; padding:10px 15px; border-radius:8px; text-decoration:none; margin:5px; font-weight:bold;">
+            Presentation
+          </a>
         </div>
-      </td>
-    </tr>
-  </table>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
