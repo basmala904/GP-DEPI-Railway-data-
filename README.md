@@ -57,7 +57,7 @@
             </li>
             <li style="margin-bottom:20px;"><b>Data Modeling (Power BI)</b>
               <p style="background:#f8f9fa; padding:15px; border-radius:15px; margin-top:10px;">Structured data model with relationships to build insights.</p>
-              <img src="Final/Data Model/DM.PNG" alt="Power BI Data Model" style="width:100%; border-radius:15px; margin-top:10px; box-shadow:0 2px 10px rgba(0,0,0,0.05);">
+              <img src="Final/Data Model/DM.jfif" alt="Power BI Data Model" style="width:100%; border-radius:15px; margin-top:10px; box-shadow:0 2px 10px rgba(0,0,0,0.05);">
             </li>
             <li style="margin-bottom:20px;"><b>Exploratory Data Analysis (EDA)</b>
               <ul style="background:#f8f9fa; padding:15px 15px 15px 35px; border-radius:15px; margin-top:10px;">
